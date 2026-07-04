@@ -1,4 +1,9 @@
-flask
-pandas
-numpy
-scikit-learn
+Python
+Pandas and Numpy
+Matplotlib and Seaborn
+Scikit-Learn
+Flask
+HTML
+CSS
+JavaScript
+Pickle
